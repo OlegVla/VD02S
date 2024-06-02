@@ -1,0 +1,33 @@
+.card{
+   width: 1200px;
+   height: 1600px;
+   background-color: burlywood;
+   border-radius: 60px;
+}
+
+
+.photo {
+   height: 40%;
+   padding: 40px;
+   <!-- padding - это внутренний отступ -->
+   <!-- Для внешних отступов используется margin -->
+}
+.info {
+   padding: 150px;
+   height: 40%;
+}
+img {
+   position: relative;
+   left:17%;
+   border-radius: 20px;
+}
+div: {
+
+    background-color: deeppink;
+    transition: 1s;
+}
+
+div:hover {
+    background-color: #0080ff;
+    transition: 1s;
+}
